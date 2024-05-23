@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02ECA5B1-318D-4704-B17A-AFFE0E178839}|20240522-1025-Operator\\20240522-1025-Operator.vcxproj|C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-1025-Operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02ECA5B1-318D-4704-B17A-AFFE0E178839}|20240522-1025-Operator\\20240522-1025-Operator.vcxproj|solutionrelative:20240522-1025-Operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1BB84F-77BB-44B8-9BFD-8A86300F0288}|20240522-0930-Operator\\20240522-0930-Operator.vcxproj|C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-0930-Operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C1BB84F-77BB-44B8-9BFD-8A86300F0288}|20240522-0930-Operator\\20240522-0930-Operator.vcxproj|solutionrelative:20240522-0930-Operator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-1025-Operator\\main.cpp",
+              "RelativeDocumentMoniker": "20240522-1025-Operator\\main.cpp",
+              "ToolTip": "C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-1025-Operator\\main.cpp",
+              "RelativeToolTip": "20240522-1025-Operator\\main.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T01:19:23.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-0930-Operator\\main.cpp",
+              "RelativeDocumentMoniker": "20240522-0930-Operator\\main.cpp",
+              "ToolTip": "C:\\Users\\Atents\\Desktop\\ray\\20240522-CPP\\20240522-0930-Operator\\main.cpp",
+              "RelativeToolTip": "20240522-0930-Operator\\main.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T00:40:01.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
